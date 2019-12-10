@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/dark_theme"
+        android:checkable="true"
+        android:title="@string/menu_dark_theme" />
+
+    <item
+        android:id="@+id/group_name"
+        android:title="@string/menu_select_group" />
+
+    <item
+        android:id="@+id/read_card"
+        android:title="@string/read_card" />
+</menu>

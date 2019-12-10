@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">Расписание</string>
+    <string name="subject_count">Всего пар: %d</string>
+    <string name="menu_dark_theme">Темная тема</string>
+    <string name="menu_select_group">Выбрать группу</string>
+    <string name="info_error">Не удалось загрузить расписание.</string>
+    <string name="info_empty_subject_list">По расписанию занятий нет.</string>
+    <string name="info_empty_change_list">По расписанию замен нет.</string>
+    <string name="info_card">Осталось дней: %s\n\nБСК продлен до: %s (включительно)</string>
+    <string name="read_card">Считать БСК</string>
+    <string name="no_card_text">Удерживайте БСК рядом с телефоном</string>
+
+    <string-array name="page_titles">
+        <item>Замены</item>
+        <item>Сегодня</item>
+        <item>Завтра</item>
+        <item>Вся неделя</item>
+    </string-array>
+
+    <string-array name="days_of_week">
+        <item>Воскресенье</item>
+        <item>Понедельник</item>
+        <item>Вторник</item>
+        <item>Среда</item>
+        <item>Четверг</item>
+        <item>Пятница</item>
+        <item>Суббота</item>
+    </string-array>
+</resources>
